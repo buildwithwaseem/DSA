@@ -35,22 +35,92 @@ This repository/notes track my progress through **Striver's A2Z DSA Sheet**, a s
 - [ ] Learn Basic Recursion — `0/9`
 - [ ] Learn Basic Hashing — `0/3`
 
-### Step 2: Sorting Techniques — `0/7`
-### Step 3: Arrays [Easy → Medium → Hard] — `0/40`
-### Step 4: Binary Search [1D, 2D, Search Space] — `0/32`
+### Step 2: Learn Important Sorting Techniques — `0/7`
+- [ ] Sorting-I
+- [ ] Sorting-II
+
+### Step 3: Solve Problems on Arrays [Easy → Medium → Hard] — `0/40`
+- [ ] Easy
+- [ ] Medium
+- [ ] Hard
+
+### Step 4: Binary Search [1D, 2D Arrays, Search Space] — `0/32`
+- [ ] BS on 1D Arrays
+- [ ] BS on Answers
+- [ ] BS on 2D Arrays
+
 ### Step 5: Strings [Basic and Medium] — `0/15`
-### Step 6: LinkedList [Single, Double, Medium, Hard] — `0/31`
+- [ ] Basic and Easy String Problems
+- [ ] Medium String Problems
+
+### Step 6: Learn LinkedList [Single LL, Double LL, Medium, Hard Problems] — `0/31`
+- [ ] Learn 1D LinkedList
+- [ ] Learn Doubly LinkedList
+- [ ] Medium Problems of LL
+- [ ] Medium Problems of DLL
+- [ ] Hard Problems of LL
+
 ### Step 7: Recursion [PatternWise] — `0/25`
+- [ ] Get a Strong Hold
+- [ ] Subsequences Pattern
+- [ ] Trying out all Combos / Hard
+
 ### Step 8: Bit Manipulation [Concepts & Problems] — `0/18`
-### Step 9: Stack and Queues [Pre/In/Post-fix, Monotonic Stack] — `0/30`
-### Step 10: Sliding Window & Two Pointer — `0/12`
-### Step 11: Heaps [Learning, Medium, Hard] — `0/17`
+- [ ] Learn Bit Manipulation
+- [ ] Interview Problems
+- [ ] Advanced Maths
+
+### Step 9: Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation] — `0/30`
+- [ ] Learning
+- [ ] Prefix, Infix, PostFix Conversion Problems
+- [ ] Monotonic Stack/Queue Problems [VVV. Imp]
+- [ ] Implementation Problems
+
+### Step 10: Sliding Window & Two Pointer Combined Problems — `0/12`
+- [ ] Medium Problems
+- [ ] Hard Problems
+
+### Step 11: Heaps [Learning, Medium, Hard Problems] — `0/17`
+- [ ] Learning
+- [ ] Medium Problems
+- [ ] Hard Problems
+
 ### Step 12: Greedy Algorithms [Easy, Medium/Hard] — `0/15`
-### Step 13: Binary Trees [Traversals, Medium, Hard] — `0/38`
-### Step 14: Binary Search Trees [Concept & Problems] — `0/16`
+- [ ] Easy Problems
+- [ ] Medium/Hard
+
+### Step 13: Binary Trees [Traversals, Medium and Hard Problems] — `0/38`
+- [ ] Traversals
+- [ ] Medium Problems
+- [ ] Hard Problems
+
+### Step 14: Binary Search Trees [Concept and Problems] — `0/16`
+- [ ] Concepts
+- [ ] Practice Problems
+
 ### Step 15: Graphs [Concepts & Problems] — `0/53`
-### Step 16: Dynamic Programming [Patterns & Problems] — `0/55`
+- [ ] Learning
+- [ ] Problems on BFS/DFS
+- [ ] Topo Sort and Problems
+- [ ] Shortest Path Algorithms and Problems
+- [ ] MinimumSpanningTree/Disjoint Set and Problems
+- [ ] Other Algorithms
+
+### Step 16: Dynamic Programming [Patterns and Problems] — `0/55`
+- [ ] Introduction to DP
+- [ ] 1D DP
+- [ ] 2D/3D DP and DP on Grids
+- [ ] DP on Subsequences
+- [ ] DP on Strings
+- [ ] DP on Stocks
+- [ ] DP on LIS
+- [ ] MCM DP | Partition DP
+- [ ] DP on Squares
+
 ### Step 17: Tries — `0/7`
+- [ ] Theory
+- [ ] Problems
+
 ### Step 18: Strings [Advanced] — `0/9`
 
 > Tip: Update the `x/y` counts and checkboxes weekly so this file stays a real progress mirror, not just decoration.
