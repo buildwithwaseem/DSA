@@ -8,7 +8,7 @@ This repository/notes track my progress through **Striver's A2Z DSA Sheet**, a s
 - **Total Problems:** 474
 - **Difficulty Split:** Easy `152` · Medium `186` · Hard `136`
 - **Start Date:** _(fill this in)_
-- **Target Completion Date:** _(fill this in)_
+- **Target Completion Date:** 18 July 2026
 
 ---
 
