@@ -7,7 +7,7 @@ This repository/notes track my progress through **Striver's A2Z DSA Sheet**, a s
 - **Source:** [takeUforward — Striver's A2Z Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
 - **Total Problems:** 474
 - **Difficulty Split:** Easy `152` · Medium `186` · Hard `136`
-- **Start Date:** 18 July 2026
+- **Start Date:** 19 July 2026
 - **Target Completion Date:** 
 
 ---
