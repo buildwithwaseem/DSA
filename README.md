@@ -1,10 +1,10 @@
-# Data Structures & Algorithms (DSA) Journey 🚀
+# Data Structures & Algorithms (DSA) Journey
 
 Welcome to my personal Data Structures and Algorithms repository! This space serves as a daily tracker for my coding consistency, architectural deep dives, and problem-solving journey. Here, I document data structures implementations, theoretical concepts, and algorithms implemented in Python.
 
 ---
 
-## 🛠️ Repository Structure
+## Repository Structure
 
 The repository is organized by core computer science concepts. It contains a mix of optimized production-ready Python scripts (`.py`) and exploratory Jupyter Notebooks (`.ipynb`) for step-by-step verification.
 
@@ -18,7 +18,7 @@ The repository is organized by core computer science concepts. It contains a mix
 
 ---
 
-## 🧠 Core Concepts Documented
+## Core Concepts Documented
 
 ### 1. Advanced Queue Configurations
 Implemented linear, circular, and double-ended queues to deeply understand memory allocation and element shift optimizations.
@@ -40,14 +40,14 @@ Designed custom structural pointers to represent Hierarchical Structures. Built 
 
 ---
 
-## ⚡ Technical Environment & Stack
+## Technical Environment & Stack
 * **Language:** Python 3.x
 * **Environments:** Google Colab / Jupyter Notebooks (`.ipynb`), Local Python Core Scripts (`.py`)
 * **Core Concepts:** Object-Oriented Programming (OOP), Custom Pointer Logic, Time & Space Complexity Optimization
 
 ---
 
-## 🎯 Continuous Improvement Log
+## Continuous Improvement Log
 - [x] Master Linear and Circular Queue memory management.
 - [x] Implement complete Tree Traversals (Pre, In, Post Order).
 - [x] Analyze recursive vs iterative performance costs.
@@ -55,4 +55,4 @@ Designed custom structural pointers to represent Hierarchical Structures. Built 
 - [ ] Deep dive into Dynamic Programming to optimize overlapping recursive calls.
 
 ---
-*“Consistency beats talent when talent doesn’t work hard.” Happy Coding!* 🔥
+*“Consistency beats talent when talent doesn’t work hard.” Happy Coding!*

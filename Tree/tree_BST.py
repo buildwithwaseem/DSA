@@ -16,11 +16,11 @@ class Node:
             root.right = Node.insert(root.right, value)
         return root
 
-def InOrder(root):
-    if (root != None):
-        inOrder(root.left)
-        print(root.data, end=" ")
-        inOrder(root.right)
+    def InOrder(root):
+        if (root != None):
+            Node.InOrder(root.left)
+            print(root.data, end=" ")
+            Node.InOrder(root.right)
 
 root = Node(20)
 root.left = Node(15)
