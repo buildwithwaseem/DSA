@@ -1,4 +1,4 @@
-# 📘 My DSA Journey — Striver's A2Z Sheet
+# My DSA Journey — Striver's A2Z Sheet
 
 > "Consistency beats intensity. Solve a little, every single day."
 
@@ -7,28 +7,28 @@ This repository/notes track my progress through **Striver's A2Z DSA Sheet**, a s
 - **Source:** [takeUforward — Striver's A2Z Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
 - **Total Problems:** 474
 - **Difficulty Split:** Easy `152` · Medium `186` · Hard `136`
-- **Start Date:** 19 July 2026
+- **Start Date:** 21 July 2026
 - **Target Completion Date:** 
 
 ---
 
-## 📊 Overall Progress
+## Overall Progress
 
 | Metric | Count |
 |---|---|
-| ✅ Solved | 11 / 474 |
-| 🟢 Easy | 11 / 152 |
-| 🟡 Medium | 0 / 186 |
-| 🔴 Hard | 0 / 136 |
-| 📈 Completion | 2% |
+| Solved | 11 / 474 |
+| Easy | 11 / 152 |
+| Medium | 0 / 186 |
+| Hard | 0 / 136 |
+| Completion | 2% |
 
 ---
 
-## 🗂️ Syllabus Breakdown
+## Syllabus Breakdown
 
 ### Step 1: Learn the Basics — `11/54`
-- [x] Things to Know in C++/Java/Python or any language — `9/9` ✅
-- [x] Build-up Logical Thinking — `2/2` ✅
+- [x] Things to Know in C++/Java/Python or any language — `9/9`
+- [x] Build-up Logical Thinking — `2/2`
 - [ ] Patterns — `0/22`
 - [ ] Learn STL/Java-Collections (or equivalent in your language) — `0/2`
 - [ ] Know Basic Maths — `0/7`
@@ -127,7 +127,7 @@ This repository/notes track my progress through **Striver's A2Z DSA Sheet**, a s
 
 ---
 
-## 🧭 How I'm Approaching This
+## How I'm Approaching This
 
 1. **One topic at a time** — I won't jump ahead until a step's core concept is clear, even if all problems aren't done.
 2. **Understand before speed** — First solve using brute force, then optimize. Speed comes with repetition, not shortcuts.
@@ -137,7 +137,7 @@ This repository/notes track my progress through **Striver's A2Z DSA Sheet**, a s
 
 ---
 
-## ⏳ Deadline Plan (Start: 17 Jul 2026 → Target Finish: 19 Oct 2026, ~13.5 weeks)
+## Deadline Plan (Start: 17 Jul 2026 → Target Finish: 19 Oct 2026, ~13.5 weeks)
 
 > Assumes ~5-6 focused problems/day. This is a *target*, not a rigid law — if a day slips, shift the next block by that many days instead of restarting the whole plan.
 
@@ -162,13 +162,13 @@ This repository/notes track my progress through **Striver's A2Z DSA Sheet**, a s
 | 17 | Tries | 7 | 16 Oct 2026 | **17 Oct 2026** | 2 |
 | 18 | Strings (Advanced) | 9 | 18 Oct 2026 | **19 Oct 2026** | 2 |
 
-**🏁 Full Sheet Deadline: 19 October 2026**
+**Full Sheet Deadline: 19 October 2026**
 
 Keep a 2-3 week buffer after this for full revision + redoing every flagged/struggled problem, before starting mock interviews or contests.
 
 ---
 
-## 📅 Weekly Log Template
+## Weekly Log Template
 
 | Week | Topics Covered | Problems Solved | Key Learnings | Struggles |
 |---|---|---|---|---|
@@ -177,7 +177,7 @@ Keep a 2-3 week buffer after this for full revision + redoing every flagged/stru
 
 ---
 
-## 🔗 Useful References
+## Useful References
 - [Striver's A2Z Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
 - [Striver's YouTube Playlist](https://www.youtube.com/@takeUforward)
 - Personal notes folder: _(link here if maintained separately)_
