@@ -18,15 +18,3 @@ if __name__ == "__main__":
 #Optimal Approach
 
 
-
-import math
-def countDigits(N):
-    return math.floor(math.log10(N)) + 1
-
-
-
-if __name__ == "__main__":
-    N = 329823
-    print("N:", N)
-    digits = countDigits(N)
-    print("Number of Digits in N:", digits)
