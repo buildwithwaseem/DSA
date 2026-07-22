@@ -11,6 +11,7 @@ Example:
 
 ## File Overview
 - count_digits.py: contains two ways to solve the problem
+- reverse_digit.py: demonstrates how to reverse the digits of a number
 - main.py: a basic starter file for the folder
 
 ## Approach 1: Brute Force
@@ -69,6 +70,45 @@ Output:
 N: 329823
 Number of Digits in N: 6
 ```
+
+## Reverse Digit Learning
+The implementation in reverse_digit.py introduces a foundational technique for reversing the digits of an integer using iterative arithmetic.
+
+### Problem Statement
+Given an integer N, return the number formed by reversing its digits.
+
+Example:
+- Input: 12345
+- Output: 54321
+
+### Implementation Approach
+The solution works by repeatedly:
+- extracting the last digit using the modulo operator
+- appending it to the reversed result
+- removing the last digit using integer division
+
+```python
+class Solution:
+    def reverseNumber(self, n):
+        revNum = 0
+        while n > 0:
+            revNum = revNum * 10 + n % 10
+            n //= 10
+        return revNum
+```
+
+### Key Learning Points
+This exercise helps reinforce:
+- modular arithmetic
+- integer division
+- iterative problem solving
+- building results step by step
+
+### Time Complexity
+- O(d), where d is the number of digits in N
+
+### Space Complexity
+- O(1)
 
 ## Notes
 - This solution works for positive integers.
