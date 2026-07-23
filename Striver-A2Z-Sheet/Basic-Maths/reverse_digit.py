@@ -1,3 +1,4 @@
+''' Reverse a given number '''
 class Solution:
     def reverseNumber(self, n):
         revNum = 0
