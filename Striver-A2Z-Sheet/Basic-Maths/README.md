@@ -110,6 +110,47 @@ This exercise helps reinforce:
 ### Space Complexity
 - O(1)
 
+## Palindrome Number Check
+The implementation in palindrome.py introduces a classic beginner-friendly technique for checking whether an integer is a palindrome.
+
+### Problem Statement
+Given an integer N, determine whether it reads the same forward and backward.
+
+Example:
+- Input: 121
+- Output: Palindrome
+
+### Implementation Approach
+The solution works by:
+- storing the original number in a separate variable
+- reversing its digits using repeated modulo and division operations
+- comparing the reversed value with the original value
+
+```python
+def isPalindrome(n):
+    revNum = 0
+    dup = n
+    while n > 0:
+        digit = n % 10
+        revNum = (revNum * 10) + digit
+        n = n // 10
+
+    return revNum == dup
+```
+
+### Key Learning Points
+This exercise helps reinforce:
+- reversing a number using arithmetic
+- working with loops and conditionals
+- comparing values to validate a condition
+- understanding the difference between a temporary copy and the original input
+
+### Time Complexity
+- O(d), where d is the number of digits in N
+
+### Space Complexity
+- O(1)
+
 ## Notes
 - This solution works for positive integers.
 - For N = 0, the brute-force logic returns 0, while the logarithmic approach is not valid for 0.
