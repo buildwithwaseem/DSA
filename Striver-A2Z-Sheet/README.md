@@ -31,7 +31,7 @@ This repository/notes track my progress through **Striver's A2Z DSA Sheet**, a s
 - [x] Build-up Logical Thinking — `2/2`
 - [ ] Patterns — `0/22`
 - [ ] Learn STL/Java-Collections (or equivalent in your language) — `0/2`
-- [ ] Know Basic Maths — `0/7`
+- [ ] Know Basic Maths — `3/7`
 - [ ] Learn Basic Recursion — `0/9`
 - [ ] Learn Basic Hashing — `0/3`
 
